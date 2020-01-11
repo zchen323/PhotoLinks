@@ -1,0 +1,30 @@
+[
+    {
+        "id": "2020",
+        "description": "2020"
+    },
+    {
+        "id": "M123456",
+        "description": "2019-12"
+    },
+    {
+        "id": "2019-C",
+        "description": "2019-C"
+    },
+    {   
+        "id": "2019-B",
+        "description": "2019-B"
+    },
+    {
+        "id": "2019-A",
+        "description": "2019-A"
+    },
+    {
+        "id": "2018-A",
+        "description": "2018-A"
+    },
+    {
+        "id": "2018-B",
+        "description": "2018-B"
+    }
+]

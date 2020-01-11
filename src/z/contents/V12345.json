@@ -1,0 +1,14 @@
+{
+    "baseURL": "https://www.youtube.com/watch?",
+    "id": "V12345",
+    "images": [
+        {
+            "title": "",
+            "description": "",
+            "name": "v=hNdlUHBJDKs",
+            "youtube": "hNdlUHBJDKs",
+            "poster": "https://img.youtube.com/vi/hNdlUHBJDKs/maxresdefault.jpg" 
+        }
+
+    ]
+}
